@@ -1,5 +1,4 @@
 # Creating a Dataset for SaharaAI
-<style> img { border-radius: 5px; } </style>
 Hello, dear reader!
 Today, I’ll tell you how my team and I put together a dataset for a competition hosted by a major IT company. At the end of the article, we’ll upload this dataset to the SaharaAI platform together.
 
