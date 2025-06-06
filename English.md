@@ -130,4 +130,3 @@ Create a new folder (you can name it whatever you like)<br>
 ![img_7.png](images/img_7.png)<br>
 And upload the dataset.<br>
 ![img_8.png](images/img_8.png)<br>
-### Consider this entire Step 2 a small guide unrelated to the main topic. My apologies—I didn’t realize that image datasets couldn’t be uploaded and started writing the article before figuring that out.
