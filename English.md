@@ -10,7 +10,7 @@ Sahara AI is a project that combines AI and blockchain.
 On their website, they state:
 Built for AI developers, open to everyone.
 A platform where anyone can create and monetize AI models, datasets, and applications in a collaborative space, powered by the Sahara blockchain.
-Sahara AI also has a large number of partners and investors—for example, Microsoft has shown interest in the project. <img src="./partners.png">
+Sahara AI also has a large number of partners and investors—for example, Microsoft has shown interest in the project. <img src="./images/partners.png">
 
 I decided to publish my dataset there because I’m a supporter of decentralization in the IT industry.
 
